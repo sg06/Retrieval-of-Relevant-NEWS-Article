@@ -1,0 +1,40 @@
+previous values(PART 1 TASK 2A): 
+map@20		ndcg@20
+0.61		0.65
+
+
+PART 2 TASK B1:
+RF
+alpha	beta	gamma	mAP@20	NDCG@20
+1	1	0.5	0.7339	0.7846
+0.5	0.5	0.5	0.6516	0.7248
+1	0.5	0	0.7370	0.7932
+
+PsRF
+alpha	beta	gamma	mAP@20	NDCG@20
+1	1	0.5	0.7000	0.7396
+0.5	0.5	0.5	0.5252	0.6090
+1	0.5	0	0.5457	0.6125
+
+
+obersevations: 
+1)For RF scheme,all combination of alpha,beta and gamma are giving better results than part 1 2a task.
+As we know that RF is a way of updating query such that it moves query vector towards relevant documents and away from nonrelevant documents. Thus, it will increase the probablity of retriving more relevant documents than before. This is under the assumption that relevant documents are similar to each other.
+
+2)For RF,when alpha and beta value is higher compare to gamma value, it is giving better results.
+Positive feedback is more important than negative feedback. IR system tries to return set of documents which are relevant even if the IR system is not told explicitely. Furthermore, if some nonrelevant documents are used for feedback calculation and some of the words in non-relevant documents are also present in the relevant documents then it may result in a poor mAP and NDCG score.
+
+3)RF is giving better results than psRF
+In RF relevance feedback is provided by the user (golden standard relevance) itself. However, in psRF relevance feedback is taken automatically without user's feedback. Here, feedback received in RF scheme is better than feedback in psRF.  
+
+
+
+
+
+
+
+
+
+
+
+
