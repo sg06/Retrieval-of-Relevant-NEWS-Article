@@ -1,5 +1,9 @@
-# Retrieval-of-Relevant-NEWS-Article
-- Built a Boolean and Ranked Retrieval Schemes using the tf-idf weighting system to find the most relevant file for a query.
-- Created an inverted positional index by pre-processing the BDNews24 corpus using NLTK having 89k articles.
-- Improved mAP@20 from 0.61 to 0.70 and NDCG@20 from 0.65 to 0.74 using Pseudo Relevance Feedback.
-- Improved mAP@20 from 0.61 to 0.74 and NDCG@20 from 0.65 to 0.79 using Relevance Feedback.
+This project consists of two parts - Part-A and Part-B.
+● Part-A:
+Task 1: Building an Inverted Index and Boolean Retrieval - Problem Statement
+Task 2: TF-IDF vectorization and Evaluation - Problem Statement
+Weightage: 60%
+● Part-B: Relevance Feedback - Problem Statement
+Weightage: 40%
+● Dataset:
+The same dataset is to be used for both the parts.
