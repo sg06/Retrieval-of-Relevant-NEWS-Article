@@ -1,0 +1,52 @@
+Query_ID,Query,AP@10,AP@20,NDCG@10,NDCG@20
+126,swine flu vaccine,0.68,0.74,0.73,0.73
+127,rare cosmic events,0.47,0.47,0.52,0.52
+128,godhra train attack,1.0,1.0,0.91,0.91
+129,michael jackson's untimely death,0.79,0.86,0.7,0.75
+130,price hike of petroleum products,0.82,0.62,0.92,0.76
+131,abduction and murder of journalists,0.66,0.75,0.66,0.71
+132,barack obama's victory,0.29,0.28,0.46,0.42
+133,torture at the abu ghraib prison,0.99,0.96,0.87,0.89
+134,ban slapped on simi,0.75,0.49,0.67,0.61
+135,india's agriculture-friendly central budget,0,0,0,0
+136,piracy in the world of entertainment,0.97,0.89,0.91,0.9
+137,the death of ltte head,0.64,0.58,0.63,0.64
+138,india's women's reservation bill,0.2,0.2,0.34,0.35
+139,vanquishing the somali pirates,0.77,0.82,0.73,0.71
+140,search for life and water in space,0.93,0.88,0.89,0.88
+141,birth of cloned human babies,0.78,0.67,0.88,0.83
+142,illegal felling of trees,0.9,0.84,0.96,0.94
+143,tata's car  nano,1.0,0.98,0.84,0.85
+144,bhopal gas tragedy,0.56,0.58,0.73,0.72
+145,assassination of benazir bhutto,0.76,0.7,0.89,0.75
+146,ram janmabhoomi verdict,0,0,0,0
+147,cyber crime in india,0.49,0.6,0.51,0.6
+148,popularity of social networking sites,1.0,1.0,0.97,0.95
+149,commonwealth games in delhi,0.31,0.42,0.44,0.56
+150,bill gates' philanthropic endeavours,0.9,0.81,0.97,0.95
+151,an indian wins the nobel prize for chemistry,1.0,0.94,0.91,0.92
+152,successful missile test in india,0.92,0.89,0.87,0.87
+153,structure of the solar system,0.91,0.78,0.84,0.83
+154,a. raja and the 2g spectrum scam,1.0,1.0,1.0,1.0
+155,attack on the taj in mumbai,0.57,0.6,0.62,0.66
+156,shashi tharoor in the ipl controversy,0.97,0.97,0.94,0.94
+157,successful indian films,1.0,0.37,1.0,0.47
+158,america's attack on afghanistan,0.36,0.32,0.66,0.52
+159,sheikh hasina in the 2008 elections,0.54,0.53,0.59,0.6
+160,iraq war 2003,0.17,0.15,0.39,0.33
+161,george bush's anti-terrorism operations,0.45,0.47,0.49,0.53
+162,catastrophic tornadoes,1.0,1.0,0.88,0.89
+163,tiger conservation in india,0.89,0.82,0.86,0.81
+164,michael jackson and child abuse,0.64,0.73,0.66,0.74
+165,marriage or divorce laws,0.58,0.48,0.75,0.7
+166,the kanishka air disaster,0,0.09,0,0.29
+167,chechen rebels and the government,1.0,1.0,0.88,0.88
+168,suu kyi under house arrest,0.93,0.86,0.87,0.8
+169,naxalite attacks,0,0,0,0
+170,development of indian hockey,0.45,0.41,0.68,0.66
+171,prime witness in the best bakery case,0,0,0,0
+172,female foeticide in india,0.91,0.76,0.97,0.92
+173,2008 olympics,0,0.12,0,0.27
+174,international economic slump,0.1,0.12,0.3,0.29
+175,sachin tendulkar's record of runs in test cricket,1.0,0.85,0.92,0.86
+,,0.64,0.61,0.66,0.65
